@@ -1,7 +1,4 @@
-INSERT INTO studenten (student_id, voornaam, achternaam, klas, adres, postcode, geboortedatum, woonplaats)
-VALUES (123, 'jan', 'klaas', '2c', 'wonerplats', '4444CC', 2000-01-02, 'amsterdam');
-VALUES (124, 'jan', 'klaas', '2c', 'wonerplats', '4444CC', 2000-01-02, 'amsterdam');
-VALUES (125, 'jan', 'klaas', '2c', 'wonerplats', '4444CC', 2000-01-02, 'amsterdam');
-VALUES (126, 'jan', 'klaas', '2c', 'wonerplats', '4444CC', 2000-01-02, 'amsterdam');
-VALUES (127, 'jan', 'klaas', '2c', 'wonerplats', '4444CC', 2000-01-02, 'amsterdam');
-VALUES (128, 'jan', 'klaas', '2c', 'wonerplats', '4444CC', 2000-01-02, 'amsterdam');
+INSERT INTO studenten(student_id, voornaam, achternaam, geboortedatum, woonplaats)
+VALUES (128, 'jan', 'klaas', 2000-01-02, 'amsterdam');
+VALUES (129, 'jan', 'klaas', 2000-01-02, 'amsterdam');
+VALUES (130, 'jan', 'klaas', 2000-01-02, 'amsterdam');
